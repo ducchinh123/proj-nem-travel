@@ -1,0 +1,8 @@
+[18-Jul-2024 08:20:48 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Query' not found in /home/gacmai/public_html/wp-content/themes/theme-custom/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gacmai/public_html/wp-content/themes/theme-custom/index.php on line 19
+[18-Jul-2024 08:20:49 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Query' not found in /home/gacmai/public_html/wp-content/themes/theme-custom/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gacmai/public_html/wp-content/themes/theme-custom/index.php on line 19
